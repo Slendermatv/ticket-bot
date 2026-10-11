@@ -1,0 +1,61 @@
+{
+  "title": "Polaris Risk & Intelligence | Support Center",
+  "description": "Select a category below to open a private support ticket. Our team will follow up with you in your ticket channel.",
+  "color": 2045785,
+  "author": {
+    "name": "Polaris Risk & Intelligence"
+  },
+  "fields": [
+    {
+      "name": "🎫 Open a ticket",
+      "value": "Choose the closest category from the menu below. A private channel will be created for you and the support team.",
+      "inline": false
+    },
+    {
+      "name": "📝 Report",
+      "value": "Report an issue, concern, or incident.",
+      "inline": true
+    },
+    {
+      "name": "⚖️ Solicitor Request",
+      "value": "Request legal or solicitor support.",
+      "inline": true
+    },
+    {
+      "name": "🏛️ Executive Branch",
+      "value": "Executive branch support.",
+      "inline": true
+    },
+    {
+      "name": "🏢 Department Support",
+      "value": "Help with a government department.",
+      "inline": true
+    },
+    {
+      "name": "📜 Legislative Support",
+      "value": "Legislative branch support.",
+      "inline": true
+    },
+    {
+      "name": "🧭 Judicial Support",
+      "value": "Judicial branch support.",
+      "inline": true
+    },
+    {
+      "name": "📚 State Law Support",
+      "value": "State law support.",
+      "inline": true
+    },
+    {
+      "name": "Before you open a ticket",
+      "value": "Share the details staff need to help. Never include passwords or other sensitive account information.",
+      "inline": false
+    }
+  ],
+  "thumbnail": {
+    "url": "attachment://help-center.png"
+  },
+  "footer": {
+    "text": "Support Desk • Select a category below to begin"
+  }
+}
